@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "mythos:bismuth_block",
+    "mythos:bismuth_ore",
+    "mythos:bismuth_deepslate_ore"
+  ]
+}
