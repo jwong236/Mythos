@@ -3,5 +3,8 @@
   "item.mythos.raw_bismuth": "Raw Bismuth",
 
   "block.mythos.bismuth_block": "Block of Bismuth",
-  "block.mythos.bismuth_ore": "Bismuth Ore"
+  "block.mythos.bismuth_ore": "Bismuth Ore",
+
+  "creativetab.mythos.bismuth_items": "Bismuth Items",
+  "creativetab.mythos.bismuth_blocks": "Bismuth Blocks",
 }
